@@ -1,5 +1,5 @@
 // Service worker: funciona offline + recebe notificações push (Firebase Cloud Messaging)
-const VERSION = "agenda-v4";
+const VERSION = "agenda-v5";
 const CORE = ["./", "./index.html", "./firebase-config.js", "./manifest.webmanifest",
   "./icons/icon-192.png", "./icons/icon-512.png", "./icons/apple-touch-icon.png"];
 
